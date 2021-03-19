@@ -111,6 +111,8 @@ As branded keywords nada mais são que as palavras-chave que estão diretamente 
 -   Porcentagem de tráfego por canais;    
 -   Posicionamento de Palavras-chave estratégicas.
 
+Informações sobre KPI's https://rockcontent.com/br/blog/kpis-de-seo/ 
+
 
 ## Sites para baixar imagens gratuitas:
  https://www.freepik.com/
