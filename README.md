@@ -1,4 +1,4 @@
-# SEO 
+# Curso de Fundamentos de SEO: Primeiros passos para ranquear seu site na busca orgânica. 
   
 O conteúdo, é o que está recebendo maior destaque nas mudanças recentes do algoritmo do Google. Quanto melhor for trabalhado o conteúdo, melhor será o posicionamento da SERP (A SERP é o resultado apresentado pelos buscadores quando um usuário inclui o termo de busca na caixa de pesquisa e aperta o “Enter”. Ou seja, é a página que traz as informações e links relacionados ao que foi procurado).
 
