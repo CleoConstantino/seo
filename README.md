@@ -33,3 +33,22 @@ Para pesquisar as palavras-chave: logar na conta do Google ADS > Ferramentas e c
  - [ ] a palavra-chave deve estar descrita 2x no texto;
  
  - [ ] deve conter um link no texto que direcione para o produto que está vendendo;
+
+## Sites para baixar imagens gratuitas:
+ https://www.freepik.com/;
+ 
+ https://www.flaticon.com/;
+ 
+ https://www.flickr.com/explore;
+ 
+ https://www.iconfinder.com/;
+ 
+ https://www.shopify.com.br/burst;
+ 
+ https://www.rgbstock.com/;
+ 
+ https://www.freeimages.com/pt;
+ 
+ https://stocksnap.io/;
+ 
+ https://pixabay.com/;
