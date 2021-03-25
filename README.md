@@ -24,7 +24,7 @@ Para pesquisar as palavras-chave: logar na conta do Google ADS > Ferramentas e c
  - [ ] Visualização na pesquisa orgânica do Google: meta tag title, meta tag description;
  - [ ] Imagens com até 200kb;
  - [ ] Página com no máximo 2mb;
- - [ ] Imagem com alt bem configurado (utilizar a palavra chave no nome da imagem, se tiver mais de uma palavra separar com hífem -);
+ - [ ] Imagem com alt bem configurado (utilizar a palavra chave no nome da imagem, se tiver mais de uma palavra separar com hífem -, sem acentos);
  - [ ] Para sites criados em WordPress usar o plug-in [Yoast SEO](https://rockcontent.com/br/blog/yoast-seo/).
  
  Obs: títulos e subtítulos usados por meio de heading titles (h1, h2...) no código HTML ajudam acima de tudo organizar a informação no site. Desta forma, ajuda também o robô do Google a encontrar o que desejam e com isso o site bem organizado fica melhor classificado.
